@@ -1,3 +1,5 @@
 comentario agregado desde git en la web.
 Recibido en Admepiere03
-y recibido ok en Adempiere02
+y recibido ok en Adempiere02.
+cambio N2
+cambio N3
