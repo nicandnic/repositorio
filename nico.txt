@@ -1,1 +1,4 @@
 creado localmente
+
+por otro lado vamos a actualizar este archivo desde
+ADempiere03
