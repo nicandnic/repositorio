@@ -9,3 +9,4 @@ y recibido ok en Adempiere02
 cambio N1
 cambio N4
 >>>>>>> 4b73f5ad40ea3d9040db4994557b54d64140158b
+recien actualizado en Adempiere02
