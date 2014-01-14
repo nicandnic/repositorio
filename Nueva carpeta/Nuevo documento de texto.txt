@@ -1,0 +1,16 @@
+comentario agregado desde git en la web.
+Recibido en Admepiere03
+<<<<<<< HEAD
+y recibido ok en Adempiere02.
+cambio N2
+cambio N3
+=======
+y recibido ok en Adempiere02
+cambio N1
+cambio N4
+>>>>>>> 4b73f5ad40ea3d9040db4994557b54d64140158b
+<<<<<<< HEAD
+recien actualizado en Adempiere02
+=======
+Visto en Adempiere03
+>>>>>>> 252509b99ccd4a8305cc4a7379e8d620f56d5747

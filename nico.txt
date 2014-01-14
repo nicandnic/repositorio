@@ -1,1 +1,10 @@
+<<<<<<< HEAD
 creado localmente
+
+por otro lado vamos a actualizar este archivo desde
+ADempiere03
+=======
+creado localmente.
+
+Vamos a actulaizar este archivo desde ADempiere02
+>>>>>>> b1648a73a137cc3a42cdf5cdf4671bcd1be6f2a2
